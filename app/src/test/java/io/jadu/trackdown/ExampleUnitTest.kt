@@ -1,4 +1,4 @@
-package com.example.stocksetfs
+package io.jadu.trackdown
 
 import org.junit.Test
 

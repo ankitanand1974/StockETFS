@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">StocksETFS</string>
+    <string name="app_name">TrackDown</string>
+    <string name="home_page">Stocks App</string>
 </resources>
