@@ -12,11 +12,11 @@ This Android application provides users with real-time data and insights into st
 ### Details Screen
 - Shows basic information and a price line graph for selected stocks/ETFs.
   <br>
-<img src="https://github.com/Rohit-554/TrackDown/assets/48874687/5cc3366e-b574-4a32-b533-1d763e4b6c98" width="200" height="450">
-<img src="https://github.com/Rohit-554/TrackDown/assets/48874687/58839dca-5471-4f57-a1f9-4c847aeed6a0" width="200" height="450">
+
 
 ## Demo
-
+https://github.com/ankitanand1974/StockETFS/blob/master/Screenshot_20240811_004353.png
+https://github.com/ankitanand1974/StockETFS/blob/master/Screen_recording_20240811_004222.mp4
 
 
 
