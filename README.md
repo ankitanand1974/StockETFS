@@ -1,4 +1,4 @@
-## Trackdown
+## StocksETFS
 
 ## About the Project
 This Android application provides users with real-time data and insights into stocks and ETFs. It includes two main screens and utilizes the Alpha Vantage API for data fetching.
@@ -9,8 +9,6 @@ This Android application provides users with real-time data and insights into st
 - Each tab features a grid of cards with detailed stock/ETF information.
 
 
-<img src="https://github.com/Rohit-554/TrackDown/assets/48874687/47b3d7b5-4e0c-4fd8-afd0-a6d2948c168d" width="200" height="450">
-
 ### Details Screen
 - Shows basic information and a price line graph for selected stocks/ETFs.
   <br>
@@ -18,9 +16,7 @@ This Android application provides users with real-time data and insights into st
 <img src="https://github.com/Rohit-554/TrackDown/assets/48874687/58839dca-5471-4f57-a1f9-4c847aeed6a0" width="200" height="450">
 
 ## Demo
-https://github.com/Rohit-554/TrackDown/assets/48874687/689306da-d8f5-4b67-b4da-f2951f21e092
 
-https://github.com/Rohit-554/TrackDown/assets/48874687/fa8dcd78-7f3b-460c-b177-8138dfffa25a
 
 
 
@@ -32,11 +28,6 @@ https://github.com/Rohit-554/TrackDown/assets/48874687/fa8dcd78-7f3b-460c-b177-8
 - **Dependency Injection**: Uses dependency injection for efficient management (Kotlin + Android).
 - **UI/UX**: Includes a basic yet intuitive user interface.
 
-## Additional Enhancements
-
-- **Search Suggestions**: Displays recently searched items as suggestions.
-- **UI Customization**: Offers light/dark mode theme switch.
-- **API Exploration**: Explores additional Alpha Vantage endpoints for added functionality.
 
 ## Technologies Used
 - Kotlin (Android)
@@ -67,7 +58,7 @@ LOGO_API_KEY= ...
 - **Dependency Injection:** Employed for efficient management of app dependencies.
 - **MVVM (Model-View-ViewModel):** Architecture pattern for separating UI from business logic.
 
-Thankyou 😊
+Thankyou 
 
 
 
